@@ -28,5 +28,13 @@
 .Pratos img:hover{
     transform: scale(1.5);
 }
-
+.titulo_prod{
+	font-family: Arial, Helvetica, sans-serif;
+ font-size: 12px;
+	font-weight: bold;
+	color:red;
+	justify-content: center;
+	display: flex
+	gap: 10px;
+}
 
