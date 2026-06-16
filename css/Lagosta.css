@@ -37,4 +37,13 @@
 	display: flex
 	gap: 10px;
 }
+.descricao_prod{
+	font-family: Arial, Helvetica, sans-serif;
+ font-size: 12px;
+	color:red;
+	justify-content: center;
+	text-align: center;
+ display: flex;
+	gap: 10px;
+}
 
