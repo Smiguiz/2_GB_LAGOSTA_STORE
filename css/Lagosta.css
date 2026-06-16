@@ -17,6 +17,8 @@
     width: 180px;
     height: 200px;
     border-radius: 9px;
+    justify-content: center;
+    display: flex;
 }
 .Pratos img:hover{
     transform: scale(1.5);
