@@ -13,6 +13,11 @@
         border: solid 10px rgba(0,0,0,0.9);
         padding: 60px;
     }
+.Pratos{
+    justify-content: center;
+    display: flex;
+    gap: 10px;
+}
 .Pratos img{
     width: 180px;
     height: 200px;
