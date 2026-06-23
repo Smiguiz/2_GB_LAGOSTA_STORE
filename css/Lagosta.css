@@ -34,7 +34,7 @@
 	font-weight: bold;
 	color:red;
 	justify-content: center;
-	display: flex
+	display: flex;
 	gap: 10px;
 }
 .descricao_prod{
